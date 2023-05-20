@@ -13,6 +13,14 @@ Please launch `launcher.exe`. It should be noted that although starting `main.ex
 
 启动 `launcher.exe` 即可。需要注意，虽然有时启动 `main.exe` 也可以正常运行，但是不建议这么做，后期会更新更丰富的功能，需要启动器启动。
 
+Please write elements in `list.txt`, ensuring that each line contains only one, including numbers, English letters, and underscores, or Chinese characters.
+
+请在 `list.txt` 中写入元素，请保证每行仅有一个，仅包含汉字、数字、英文字母、下划线。
+
+Please write the number of elements in `list_number.txt` , which must be strictly equal to the number of files in `list.txt`. 
+
+请在文件 `list_number.txt` 中写入元素的个数，必须严格等于 `list.txt` 中文件的个数。
+
 # Features / 特性
 
 - At present, the randomly selected results will be temporarily saved in 'result. txt', and may be changed to other output methods in the future.
